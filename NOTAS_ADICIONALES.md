@@ -1,7 +1,13 @@
+# Acceso al moodle
+
+http://187.217.4.141/~edc/moodle/
+Folio de usuario / curp*p
+
 # Historia de las bases de datos
 
 https://www.thinkautomation.com/histories/the-history-of-databases/
 
+https://www.quickbase.com/articles/timeline-of-database-history
 
 
 # DISEÑO LÓGICO DE BASE DE DATOS
