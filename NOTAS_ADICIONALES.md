@@ -11,6 +11,8 @@ https://www.quickbase.com/articles/timeline-of-database-history
 
 https://survey.stackoverflow.co/2022/
 
+http://jovenes.itcomplements.com/
+
 # DISEÑO LÓGICO DE BASE DE DATOS
 
 ## Modelo entidad - relación
