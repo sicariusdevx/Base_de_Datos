@@ -76,7 +76,11 @@ Se escriben en mayúsculas
 ## DDL
 
 https://www.db-fiddle.com/f/w27xWsmKA54ktiBYuP8CH1/0 
+
 https://www.db-fiddle.com/f/w27xWsmKA54ktiBYuP8CH1/1
+
+https://www.db-fiddle.com/f/w27xWsmKA54ktiBYuP8CH1/2
+
 EJERCICIO. Note que el último dígito especifica la versión de acuerdo a las veces que se ha guardado la base de datos
 Correr continuamente la base de datos para verificar que no tiene errores.
 Los comentarios en SQL van precedidos de un doble guión alto
@@ -104,6 +108,12 @@ Propiedades de los Atributos
 PRIMARY KEY   Es una clave principal de las tuplas
 NOT NULL      No se puede quedar vacío
 ```
+
+## DML
+
+Los comandos de entrada de datos y de creación de tabla suelen ir entremezclados en el código ya que este es consecuencia de la sucesión de acontecimientos o sucesos que van conformando las tablas y toda la base de datos.
+
+
 
 
 
