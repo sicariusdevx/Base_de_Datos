@@ -88,17 +88,24 @@ Crea la base de datos.
 USE database_name;
 Establece la base de datos que utilizará en ese momento. En caso de no especificar el sistema puede hacer referencia a una base de datos distinta cargada de facto como parte de la interfaz.
 
+```
 CREATE TABLE database_name(
   atrib1 TIPO_DATO(arg) ATRIBUTE_PROPERTY,
   atrib2 TIPO_DATO(arg) ATRIBUTE_PROPERTY,
   atrib3 TIPO_DATO(arg) ATRIBUTE_PROPERTY,
   ...
   );
+```
 observe que el ultimo atributo NO DEBE DE LLEVAR COMA
 
 Propiedades de los Atributos
+
+```
 PRIMARY KEY   Es una clave principal de las tuplas
 NOT NULL      No se puede quedar vacío
+```
+
+
 
 
 
