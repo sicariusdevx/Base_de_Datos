@@ -167,6 +167,10 @@ biblioteca v2
 
 https://www.db-fiddle.com/f/jaDc3k5ZuK1AnA9GX2SoDr/0
 
+https://www.db-fiddle.com/f/jaDc3k5ZuK1AnA9GX2SoDr/1
+
+
+
 
 
 
