@@ -105,6 +105,11 @@ Propiedades de los Atributos
 PRIMARY KEY   Es una clave principal de las tuplas
 NOT NULL      No se puede quedar vacío
 ```
+Insertar datos:
+```
+INSERT INTO [tabla] VALUES ([dato_campo1],[dato_campo2],[dato_campo3]);
+```
+
 Datos nulos son aquellos que tienen un espacio ocupado en memoria o almacenamiento pero no tienen un valor asignado.
 
 Datos vacíos carecen por completo de contenido y no ocupan espacio en memoria o almacenamiento.
@@ -159,6 +164,15 @@ SELECT [nombre_campo1_tabla1],[nombre_campo3_tabla3],...
   INNER JOIN [tabla3] ON [tabla3.claveforanea_tabla3] = [tabla2.claveforanea_tabla2];
 ```
 
+
+Actualizar y modificar datos de la tabla (sin acceso a DDL)
+```
+UPDATE [tabla1]
+  SET [campo1_tabla1] = 'nuevo_dato';
+  WHERE [campo2_tabla1] = [condición];
+```
+
+
 https://programacionymas.com/blog/como-funciona-inner-left-right-full-join
 
 Las bases de datos se pueden bifurcar o escindir (*fork*)  lo que permite establecer versiones de la misma.
@@ -169,7 +183,9 @@ https://www.db-fiddle.com/f/jaDc3k5ZuK1AnA9GX2SoDr/0
 
 https://www.db-fiddle.com/f/jaDc3k5ZuK1AnA9GX2SoDr/1
 
+tienda v1
 
+https://www.db-fiddle.com/f/xmWgvuRDyMs8K2t1auepFV/1
 
 
 
