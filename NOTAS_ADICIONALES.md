@@ -187,6 +187,14 @@ tienda v1
 
 https://www.db-fiddle.com/f/xmWgvuRDyMs8K2t1auepFV/1
 
+## Operaciones dentro de la base de datos
+
+https://www.db-fiddle.com/f/b3Fuj6Py7MS5aYfAxbPqp3/0
+
+## Evaluación 6 Creación de una base de datos
+
+https://www.db-fiddle.com/f/p7Zb8opeFYoHkqxMfn39xN/0
+
 
 
 
