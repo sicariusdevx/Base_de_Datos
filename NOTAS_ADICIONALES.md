@@ -191,10 +191,38 @@ https://www.db-fiddle.com/f/xmWgvuRDyMs8K2t1auepFV/1
 
 https://www.db-fiddle.com/f/b3Fuj6Py7MS5aYfAxbPqp3/0
 
-## Evaluación 6 Creación de una base de datos
+## Triggers
+
+https://www.db-fiddle.com/f/jSuMQ8XbVW4xfgD2NnXeVo/0
+
+## Subconsultas
+
+https://www.db-fiddle.com/f/muGXYTBaMtZNA9c6xRQjf/0
+
+INNER JOIN, LEFT JOIN y RIGHT JOIN permite hacer uniones de los datos de tablas, sin embargo, no permite hacer subconsultas limitadas a los datos de tabla2
+
+Para eso utilizamos el método de subconsulta. Ventaja: la búsqueda puede ser más específica. Desventaja: es un método de consulta más lento e ineficaz en tablas de datos grandes.
+
+```
+SELECT [campos_tabla1]
+   FROM [tabla1] 
+   WHERE [campo_foraneo_tabla1] IN 
+   (SELECT [campo_privado_tabla2] 
+      FROM [tabla2] 
+      WHERE [campo_buscado] = [data]);
+```
+
+## Evaluaciones
+
+### Evaluación 6 Creación de una base de datos
 
 https://www.db-fiddle.com/f/p7Zb8opeFYoHkqxMfn39xN/0
 
+### Evaluación 7 Funciones en SQL
+
+https://www.db-fiddle.com/f/p7Zb8opeFYoHkqxMfn39xN/2
+
+### Evaluación 
 
 
 
