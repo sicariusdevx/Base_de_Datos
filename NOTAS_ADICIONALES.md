@@ -220,12 +220,19 @@ https://www.db-fiddle.com/f/p7Zb8opeFYoHkqxMfn39xN/0
 
 ### Evaluación 7 Funciones en SQL
 
-https://www.db-fiddle.com/f/p7Zb8opeFYoHkqxMfn39xN/2
+https://www.db-fiddle.com/f/p7Zb8opeFYoHkqxMfn39xN/3
 
-### Evaluación 
+### Evaluación 8 Disparadores
 
+https://www.db-fiddle.com/f/j8TPAT8yACMYacSQfaeXck/0
 
+### Evaluación 9 Operaciones en Base de datos
 
+https://www.db-fiddle.com/f/p7Zb8opeFYoHkqxMfn39xN/4
+
+# Páginas útiles
+
+https://learnsql.com/blog/difference-between-where-and-having-clauses-in-sql/
 
 
 
