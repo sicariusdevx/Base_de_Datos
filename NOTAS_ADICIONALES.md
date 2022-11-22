@@ -225,10 +225,17 @@ https://www.db-fiddle.com/f/p7Zb8opeFYoHkqxMfn39xN/3
 ### Evaluación 8 Disparadores
 
 https://www.db-fiddle.com/f/j8TPAT8yACMYacSQfaeXck/0
+https://www.db-fiddle.com/f/j8TPAT8yACMYacSQfaeXck/2
 
 ### Evaluación 9 Operaciones en Base de datos
 
 https://www.db-fiddle.com/f/p7Zb8opeFYoHkqxMfn39xN/4
+
+### proyecto final
+
+https://www.db-fiddle.com/f/cMjAjtRUAJELAoJysypidh/0
+https://www.db-fiddle.com/f/cMjAjtRUAJELAoJysypidh/1
+https://www.db-fiddle.com/f/cMjAjtRUAJELAoJysypidh/2
 
 # Páginas útiles
 
